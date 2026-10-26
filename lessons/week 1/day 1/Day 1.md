@@ -1,0 +1,2 @@
+
+This will probably be the only note inside of the lessons folder. I just wanted to lay out my progress for the day. Today i have decided that I will try learning C++. I have set up a C++ learning environment and will continue doing something for the rest of the day.
