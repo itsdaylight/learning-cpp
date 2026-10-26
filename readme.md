@@ -35,9 +35,8 @@ There are folders in this repo. Lessons and Notes. In the notes folders will be 
 
 ### 🗺️ Long-Term Curriculum
 
-This is where some of you guys might look away. The following lesson plan is made by Gemini. I'm going to use it as a lesson plan. I prefer to have things layed out right on the table for me to see plain and simply. If that turns you away then you have every right to leave. I will not hold any ill will against you for that. But if you do have any sort of critisism you can let me know but pull request or an issue. I know those two tabs are not for this pourpose but i dont think it matters for this specific use case.
+This is where some of you guys might look away. The following lesson plan is made by Gemini. I'm going to use it as a lesson plan. I prefer to have things laid right out on the table for me to see plain and simply. If that turns you away then you have every right to leave. I will not hold any ill will against you for that. But if you do have any sort of criticism you can let me know but pull request or an issue. I know those two tabs are not for this purpose but I don't think it matters for this specific use case.
 
-### 🗺️ Curriculum Outline
 
 - [ ] **Phase 1: The Basics**
   - Syntax, variables, and data types
