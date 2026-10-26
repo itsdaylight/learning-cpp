@@ -35,31 +35,39 @@ There are folders in this repo. Lessons and Notes. In the notes folders will be 
 
 ### 🗺️ Long-Term Curriculum
 
-This is where some of you guys might look away. The following lesson plan is made by Gemini. I'm going to use it as a lesson plan. I prefer to have things laid right out on the table for me to see plain and simply. If that turns you away then you have every right to leave. I will not hold any ill will against you for that. But if you do have any sort of criticism you can let me know but pull request or an issue. I know those two tabs are not for this purpose but I don't think it matters for this specific use case.
+This is where some of you guys might look away. The following month plan is made by Gemini. I'm going to use it as a lesson plan. I prefer to have things laid right out on the table for me to see plain and simply. If that turns you away then you have every right to leave. I will not hold any ill will against you for that. But if you do have any sort of criticism you can let me know but pull request or an issue. I know those two tabs are not for this purpose but I don't think it matters for this specific use case.
 
 
-- [ ] **Phase 1: The Basics**
-  - Syntax, variables, and data types
-  - Input and output (`std::cin`, `std::cout`)
-  - Control flow (`if/else`, loops)
-  - Functions and scope
+### 🗓️ Month 1: Foundations & Core Concepts
 
-- [ ] **Phase 2: Memory & Pointers (The Fun Part)**
-  - Addresses and pointers (`*` and `&`)
-  - References and `const` correctness
-  - Dynamic memory allocation (`new`/`delete`)
+#### **Week 1: Terminal Setup & Core Syntax**
+- [ ] **Day 01:** Setup local environment, CLI tools, compiler (`clang++`), and repo layout.
+- [ ] **Day 02:** "Hello, World!", main function structure, and printing with `std::cout`.
+- [ ] **Day 03:** Fundamental data types (`int`, `double`, `char`, `bool`) and `std::string`.
+- [ ] **Day 04:** Reading user input with `std::cin` & understanding `std::getline`.
+- [ ] **Day 05:** Basic arithmetic, type conversions, and `const` variables.
+- [ ] **Day 06-07 (Weekend Project):** Build a basic interactive command-line calculator.
 
-- [ ] **Phase 3: Object-Oriented Programming**
-  - Structs and classes
-  - Constructors and destructors
-  - Inheritance and polymorphism
+#### **Week 2: Controlling Logic & Program Flow**
+- [ ] **Day 08:** Conditional logic with `if`, `else if`, and `else`.
+- [ ] **Day 09:** Boolean operators (`&&`, `||`, `!`) and `switch` statements.
+- [ ] **Day 10:** Repeating actions with `while` and `do-while` loops.
+- [ ] **Day 11:** Count-based iteration with `for` loops.
+- [ ] **Day 12:** Random number generation and seed control (`std::random_device`).
+- [ ] **Day 13-14 (Weekend Project):** Create a terminal-based "Number Guessing Game".
 
-- [ ] **Phase 4: Modern C++ & The STL**
-  - Smart pointers (`unique_ptr`, `shared_ptr`)
-  - Vectors, maps, and other containers
-  - Basic templates and lambda functions
+#### **Week 3: Functions, Scope & Data Groups**
+- [ ] **Day 15:** Declaring, defining, and calling custom functions.
+- [ ] **Day 16:** Function parameters, return values, and variable scope.
+- [ ] **Day 17:** Introduction to fixed-size sequences with `std::array` and C-style arrays.
+- [ ] **Day 18:** Dynamic lists using `std::vector` (pushing, popping, and iterating).
+- [ ] **Day 19:** Grouping related data using `structs`.
+- [ ] **Day 20-21 (Weekend Project):** Build a CLI Inventory Manager (Add, List, & Remove items).
 
-- [ ] **Phase 5: Real-World Skills & The App**
-  - Multi-file projects (header files and `.cpp` files)
-  - File I/O (reading and writing files)
-  - Building the actual project
+#### **Week 4: The Core C++ Mechanics (Pointers & References)**
+- [ ] **Day 22:** References (`&`) and modifying variables inside functions (Pass-by-Reference).
+- [ ] **Day 23:** Understanding memory addresses and raw pointers (`*`).
+- [ ] **Day 24:** Pointer arithmetic and `nullptr` safety.
+- [ ] **Day 25:** Constant references (`const Type&`) for performance and safety.
+- [ ] **Day 26:** Splitting code across Header files (`.hpp`) and Source files (`.cpp`).
+- [ ] **Day 27-28 (Weekend Project):** Build a multi-file Contact Book / Address Book app.
